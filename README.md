@@ -16,6 +16,6 @@ Notebook that contains the recommendation system:
 
 I have a more detailed notebook for the collaborative filtering algorithm
 in my ML algorithms [repository][other repo]. user.py and utils.py are based on this
-notebook and are also present in the algorithms repository.
+notebook.
 
 [other repo]: https://github.com/chen10an/ml_algos_python/tree/master/collaborative_filtering
